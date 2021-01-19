@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "Brand": "Vega",
+        "Model": "Vega",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vega_evx.jpg",
+        "Price" : "$ 200,000" 
+    },
+    {
+        "id": 2,
+        "Brand": "BMW",
+        "Model": "M 5",
+        "image": "https://cdn.motor1.com/images/mgl/OpP3e/s1/2021-bmw-m5-m5-competition.jpg",
+        "Price" : "$ 120,000"
+    },
+    {
+        "id": 3,
+        "Brand": "Mercedes-Benz",
+        "Model": "E 63",
+        "image": "https://www.renderhub.com/squir/mercede-e63-sedan-amg-2021/mercede-e63-sedan-amg-2021-01.jpg",
+        "Price" : "$ 140,000"
+    },
+    {
+        "id": 4,
+        "Brand": "Audi",
+        "Model": "RS 6",
+        "image": "https://cdn.motor1.com/images/mgl/go0rm/s1/audi-rs-6-avant-2019.jpg",
+        "Price" : "$ 100,000"
+
+    },
+    {
+        "id": 5,
+        "Brand": "Maserati",
+        "Model": "Alfieri",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alfieri-1569609760.jpg?crop=0.902xw:0.750xh;0.00801xw,0.144xh&resize=1200:*",
+        "Price" : "$ 120,000"
+    },
+    {
+        "id": 6,
+        "Brand": "Alfa Romeo",
+        "Model": "Giulia",
+        "image": "https://cdn.motor1.com/images/mgl/0lNZW/s1/l-alfa-romeo-giulia-quadrifoglio-di-6-underground.jpg",
+        "Price" : "$ 120,000"
+    },
+    {
+        "id": 7,
+        "Brand": "Toyota",
+        "Model": "Supra",
+        "image": "https://di-uploads-pod1.dealerinspire.com/lancastertoyota/uploads/2019/10/Yell_Supra.jpg",
+        "Price" : "$ 75,000"
+    },
+    {
+        "id": 8,
+        "Brand": "Nissan",
+        "Model": "GTR",
+        "image": "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/gt-r/r35/2_minor_change/overview/19TDIEULHD_GT-R_002.jpg.ximg.l_full_m.smart.jpg",
+        "Price" : "$ 135,000"
+    },
+    {
+        "id": 9,
+        "Brand": "Honda",
+        "Model": "NSX",
+        "image": "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/whichcar/2018/09/10/-1/2018-Honda-NSX-performance-review.jpg",
+        "Price" : "$ 75,000"
+    },
+    {
+        "id": 10,
+        "Brand": "Dodge",
+        "Model": "Challenger SRT Hellcat",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/challengerhellcat-1557775180.jpg",
+        "Price" : "$ 75,000"
+    }
+
+
+]
